@@ -3,5 +3,5 @@
 Primeiramente, é necessário instalar as dependências com o comando:
 
 ```bash
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
